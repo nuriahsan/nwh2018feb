@@ -1,0 +1,6 @@
+[user]
+	name = nuriahsan
+	email = nuwarhsan87@gmail.com
+[core]
+	autocrlf = true
+	safecrlf = true
